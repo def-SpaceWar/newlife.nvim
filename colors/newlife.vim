@@ -2,9 +2,9 @@ let g:colors_name="newlife"
 
 lua << EOF
 require("base16-colorscheme").setup {
-    base00 = "#1F1F1F",
-    base01 = "#3E3E3E",
-    base02 = "#5D5D5D",
+    base00 = "#1F2222",
+    base01 = "#3E4444",
+    base02 = "#5D6666",
     base03 = "#DD9977",
     base04 = "#7799DD",
     base05 = "#BABABA",
